@@ -1,0 +1,23 @@
+body {
+	font-family:arial;
+	background-image:url('images/pageBg.gif');
+	background-repeat:repeat;
+}
+#wrapper {
+	background:#ffffff;
+	width:800px;
+	margin:0 auto;
+}
+#header {
+	background-image:url('images/headerBg.gif');
+	background-repeat:repeat;
+	height:75px;
+	width:780px;
+	padding:10px;
+	color:#ffffff;
+}
+#box {
+	height:160px;
+	width:260px;
+	float:left;
+}
