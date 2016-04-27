@@ -230,16 +230,17 @@ elseif ($do=="b" AND $koliko==50) {
 		<div id="header">
 			<div style="height:75px;width:290px;float:left"><div style="font-size:24;font-weight:bold;float:left">Učenje Biblijskih knjiga</div><div style="float:left">
 			
-<!-- Histats.com  START  (standard)-->
-<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
-<a href="http://www.histats.com" target="_blank" title="counter create hit" ><script  type="text/javascript" >
-try {Histats.start(1,1847240,4,602,110,40,"00011111");
-Histats.track_hits();} catch(err){};
-</script></a>
-<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1847240&101" alt="counter create hit" border="0"></a></noscript>
-<!-- Histats.com  END  -->
+				<!-- Histats.com  START  (standard)-->
+				<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+				<a href="http://www.histats.com" target="_blank" title="counter create hit" ><script  type="text/javascript" >
+				try {Histats.start(1,1847240,4,602,110,40,"00011111");
+				Histats.track_hits();} catch(err){};
+				</script></a>
+				<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1847240&101" alt="counter create hit" border="0"></a></noscript>
+				<!-- Histats.com  END  -->
 
-</div></div>
+			</div>
+		</div>
 <?php if ($stps==0 OR $stps==2) { ?>
 			<div style="float:left;margin-left:10px;text-align:right;width:100px;height:80px;line-height:24px">
 				Koja igra:<br/>
